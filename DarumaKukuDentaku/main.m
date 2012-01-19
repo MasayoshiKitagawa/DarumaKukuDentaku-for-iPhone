@@ -1,8 +1,8 @@
 //
 //  main.m
-//  DarumaKukuDentakuVar0
+//  DarumaKukuDentaku
 //
-//  Created by 正義 北川 on 12/01/09.
+//  Created by 正義 北川 on 12/01/14.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
 
